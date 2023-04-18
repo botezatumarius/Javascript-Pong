@@ -1,0 +1,19 @@
+#game-container{
+    text-align: center;
+}
+
+#board{
+    border: 3px black solid;
+}
+
+#score{
+    font-size:50px;
+    font-family: cursive;
+}
+
+#reset{
+    font-size: 25px;
+    font-family: cursive;
+    border: 4px black solid;
+    border-radius: 10px;
+}
